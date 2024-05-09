@@ -9,6 +9,7 @@ json
   "MonthNumber": "10/2019"
 }
 
+http://localhost:5210/api/record/totalHours
 Rota GET para Obter o Total por Dia 
 
 Rota: GET http://localhost:5210/api/record
